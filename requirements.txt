@@ -1,0 +1,11 @@
+python-dotenv==1.0.0
+watchdog==3.0.0
+tqdm==4.66.1
+customtkinter==5.2.2
+pyftpdlib>=1.5.7
+python-json-logger>=2.0.7
+pystray>=0.19.4
+Pillow>=10.0.0
+pyinstaller==6.11.1
+winshell
+pywin32

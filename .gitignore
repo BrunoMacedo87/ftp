@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+.env
+.venv
+env/
+venv/
+ENV/
+logs/
+*.log
+*.log.*
+
+# Arquivos de configuração sensíveis ou locais
+ftp_config.json
+uploaded_files.json
+licenses_history.json
+file_log.json
+
+# Instalação/Distribuição
+installer_output/
+*.spec
+*.exe
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operacional
+.DS_Store
+
+# Node/React (caso use no frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/coverage
+/build
+
+# Arquivos temporários
+*.tmp
